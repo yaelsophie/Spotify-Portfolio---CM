@@ -20,11 +20,18 @@ I've made a Spotify playlist including 6 albums. One is left out called 'The Nin
 The playlist contains the following albums:
 'Wave', 'Love Songs for Robots', 'Adventures in your Own Backyard', 'Wooden Arms', 'Close to Paradise' and 'Just another Ordinary Day', resulting in a album consisting of 66 songs. (Possibly I will also include EP songs, but that is something I'll decide later on.)
 
-**Typical songs**
+Link to playlist:
+https://open.spotify.com/playlist/6wlIYjCXIv8vzRWxn8Ee9I?si=732901d3b2924598
 
+**Typical songs**
+Lighthouse - Patrick Watson
+*Typical because he first uses instruments he is comfortable with, i.e. piano, and uses a height in pitch he uses very often. Lately the song emerges into a heavy instrumentalised song and stronger vocals, where a lot is happening. This is also very tipical for a Patrick Watsong song.*
 
 **Atypical songs**
+The Storm - Patrick Watson
+*Atypical because you directly get the feeling that it comes close to a country song while he often doesn't show this style in his music. My question here is, why does it feel like a country song instead of just another song from Patrick Watson?*
 
+More typical and atypical songs will follow.
 
 *Aantekeningen voor mijzelf*
 paar nummers uitkiezen die inderdaad in eerdere albums voorkwamen als hoog pitched, en een paar die dat toentertijd al niet waren
